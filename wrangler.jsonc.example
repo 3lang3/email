@@ -1,0 +1,15 @@
+{
+	"name": "email-worker",
+	"main": "index.js",
+	"compatibility_date": "2025-04-28",
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "email-db",
+			"database_id": "<YOUR_D1_DATABASE_ID>"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
