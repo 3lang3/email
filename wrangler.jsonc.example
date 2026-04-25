@@ -9,6 +9,11 @@
 			"database_id": "<YOUR_D1_DATABASE_ID>"
 		}
 	],
+	"send_email": [
+		{
+			"name": "SEND_EMAIL"
+		}
+	],
 	"observability": {
 		"enabled": true
 	}
